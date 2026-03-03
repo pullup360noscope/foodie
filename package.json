@@ -1,0 +1,23 @@
+{
+  "name": "foodie",
+  "version": "1.0.0",
+  "description": "match & grill mechanic for mobile web browser implemented with Phaser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pullup360noscope/foodie.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pullup360noscope/foodie/issues"
+  },
+  "homepage": "https://github.com/pullup360noscope/foodie#readme",
+  "dependencies": {
+    "phaser": "^3.90.0"
+  }
+}

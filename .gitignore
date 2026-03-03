@@ -1,0 +1,21 @@
+# Node.js Modules
+node_modules/
+
+# Log files
+npm-debug.log
+
+# Optional: npm package lock
+# package-lock.json
+
+# Build output
+dist/
+build/
+
+# Environment variable files
+.env
+
+# macOS system files
+.DS_Store
+
+# Coverage reports
+coverage/
