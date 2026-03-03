@@ -1,5 +1,5 @@
 // Import Phaser
-import Phaser from 'phaser';
+import Phaser from './node_modules/phaser/dist/phaser.js';
 
 // Create a new Phaser game instance
 const config = {
@@ -25,9 +25,8 @@ const game = new Phaser.Game(config);
 // Preload assets
 function preload() {
     // Load images here
-    this.load.image('skewer', 'path/to/skewer.png'); // Update with actual image path
+    this.load.image('skewer', '/public/unnamed.png');
 }
-
 // Create initial game setup
 function create() {
     // Add game objects here
